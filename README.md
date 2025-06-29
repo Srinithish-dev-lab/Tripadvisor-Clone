@@ -10,7 +10,7 @@ A pixel-perfect static replica of the Tripadvisor homepage, built with **HTML5**
 
 ## 🚀 Github Repo
 
-👉 [Project Directory](#)  
+👉 [Project Directory](https://github.com/Srinithish-dev-lab/Tripadvisor-Clone)  
 
 ---
 
@@ -51,7 +51,6 @@ This is a **static-only clone** and does not contain any backend or dynamic func
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
-[LinkedIn](#) • [Portfolio](#) • [Email](#)
+Made with ❤️ by Srinithish S M  
 
 ---
